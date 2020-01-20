@@ -1,0 +1,45 @@
+.pad0{
+    height: auto;
+padding:0px;
+    
+}
+.pad10{
+    
+padding-top: 10px;
+    
+    
+}
+/*
+.navbar{
+    background-color: navy;
+  
+}*/
+#img{
+    
+   
+     opacity: 15;
+    
+}
+#deneme1 {
+    width:100%;
+    position: relative;
+}
+
+#deneme2 {
+    width:100%;
+    position: absolute;
+    top:50%;
+    text-align: center;
+}
+#proje img{
+    -webkit-filter:grayscale(100%);
+    filter:grayscale(100%);
+}
+#proje img:hover{
+    -webkit-filter:grayscale(0%);
+    filter:grayscale(0%);
+}
+
+
+
+
